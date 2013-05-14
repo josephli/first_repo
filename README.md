@@ -1,4 +1,1 @@
-first_repo
-==========
-
-first_repo
+hello world!
